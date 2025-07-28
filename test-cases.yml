@@ -14,9 +14,9 @@
   expected-result: |
     Произошел переход на страницу каталога товаров, URL изменился на страницу каталога https://hexlet-products-store.vercel.app/
 
-- summary:: |
+- summary: |
     Индикатор количества товаров увеличивается на 1 при добавлении товара
-  requirement:: |
+  requirement: |
     При добавлении одного товара Lemon в корзину значение индикатора количества товаров должно увеличиться на 1
   prerequisites: |
     Открыта страница товара Lemon по адресу https://hexlet-products-store.vercel.app/products/31
